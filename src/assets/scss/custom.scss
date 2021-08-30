@@ -1,0 +1,179 @@
+.ev-registration {
+    .evLogo {
+        width: auto;
+        border-radius: 0 !important;
+    }
+    .md-card-header{
+        margin: auto;
+    }
+    p, div, .md-checkbox-label {
+        font-weight: 200;
+    }
+    .md-card {
+        margin: 0;
+    }
+    .md-layout-item {
+        margin-bottom: 10px;
+    }
+    .firstStep-checkbox {
+        .md-checkbox {
+            margin: 0px ;
+        }
+        margin-bottom: 20px;
+    }
+    .second-step{
+        .md-card .md-card-content{
+            padding: 0;
+            width: 100%;
+            text-align: center;
+        }
+        .md-card {
+            box-shadow: none;
+            max-height: 162px;
+        }
+        .md-card-tabs .md-list {
+            padding: 0;
+            margin-bottom: 10px;
+        }
+        .md-card-tabs .md-list .md-list-item .md-list-item-button {
+            border-radius: 5px;
+        }
+        .tab-pane-1, .tab-pane-2 {
+            width: 100%;
+        }
+        .adjust {
+            line-height: 4em;
+        }
+    }
+    .md-card-wizard .tab-content{
+        padding: 0;
+        min-height: 0;
+    }
+
+    .md-card-wizard .wizard-navigation {
+        min-height: 36px; 
+    }
+
+    .md-checkbox .md-checkbox-container:before{
+        height: 27px;
+    }
+    // .md-card .md-card-tabs .md-theme-default{
+    //     height: 145px;
+    // }
+    .nav-tabs {
+        display: inline-block;
+    }
+
+    .md-list-item {
+        float: left;
+        margin-left: 0;
+    }
+
+    .md-card-tabs .md-card-header {
+        display: none;
+    }
+
+    @media only screen 
+    and (max-width : 320px){
+        .md-card-tabs .md-list {
+            padding: 0;
+        }
+    }
+    
+    @media only screen 
+    and (max-width : 812px){
+        .md-checkbox .md-checkbox-label{
+            height: 80px;
+        }
+        .md-layout-item.md-small-size-100{
+            z-index: 999999;
+        }
+        .second-step{
+            .md-card {
+                max-height: 204px;
+            }
+        }
+        .md-field label{
+            font-size: 10px;
+            z-index: 9999999;
+        }
+        .md-field {
+            margin: 0;
+        }
+        .md-form-label {
+            text-align: center !important;
+        }
+    }
+    @media only screen 
+    and (max-width : 480px){
+        .md-card-content {
+            font-size: 12px;
+        }
+        .md-checkbox .md-checkbox-label{
+            height: 40px;
+        }
+
+        .md-table-cell{
+            font-size: 12px;
+        }
+        .nav-pills{
+            display: none;
+        }
+        // .md-layout{
+        //     margin-top: 20px;
+        // }
+        // .moving-tab{
+        //     margin-left: 8px;
+        // }
+        //.md-card-content{
+        //    margin-top: 25px;
+        //}
+        div.moving-tab{
+            transform: translate3d(0px, 0px, 0px) !important;
+        }
+        .md-field:after, .md-field:before{
+            bottom: 20px;
+        }
+    }
+    .md-card .md-card-header{
+        padding: 1.2rem 1.25rem;
+    }
+
+    .checkboxSpan {
+        vertical-align: text-bottom;
+        margin-left: 10px;
+    }
+    // .innogy.greentrax.de{
+
+    // }
+    // .mark-e.greentrax.de{
+
+    // }
+}
+.thankyou {
+   background-color: #ffffff; 
+   border-radius: 7px;
+   p, h4 {
+       color: #000000
+   }   
+   .logo{
+       text-align: center;
+       margin-top: 30px;
+       height: 80px;
+   }
+   .content {
+       margin-top: 60px;
+       h2{
+           text-align: center;
+           color: #000000
+       }
+       p{
+        text-align: center;
+        color: #000000
+    }
+       .evLogo{
+        text-align: center;   
+        margin-bottom: 60px; 
+       }
+   }
+}

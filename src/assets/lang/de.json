@@ -1,0 +1,116 @@
+{
+    "de": {
+        "first_step": {
+            "innogy": {
+                "error": "Bitte fülle alle erforderlichen Felder aus!",
+                "heading": "Du kannst hier dein Elektroauto registrieren und damit zu einem nachhaltigeren Verkehrssektor in Deutschland beitragen. Im Rahmen der Treibhaugas-Minderungsquote (38. BImschV) wird die Elektromobilität durch Mineralölkonzerne quersubventioniert. Du kannst hier einen kleinen Beitrag dazu leisten und gleichzeitig selbst profitieren",
+                "title": "Voraussetzungen für eine erfolgreiche Anrechnung",
+                "confirm_ownership": "Ein reines Batterie-Elektrofahrzeug ist auf mich (oder mein Unternehmen) zugelassen.",
+                "confirm_energy_contract": "Ein gültiger Stromvertrag von innogy läuft auf mich (oder mein Unternehmen).",
+                "term_conditions": "Ich stimme den AGB und <a href=\"javascript:void(0)\" id=\"term\" >Datenschutzrichtlinien</a> zu. Ich stimme zu, dass meine Daten im Auftrag von [Company] durch GreenTrax gespeichert werden und zum Zweck der THG-Minderungsquote nach der 38. BImSchV mit [COMPANY] geteilt werden.",
+                "term_conditions_greentrax": "Test",
+                "term_modal_title": "Datenschutzrichtlinien",
+                "term_modal_body": "Herzlich Willkommen! Du kannst hier dein Elektroauto registrieren und damit zu einem nachhaltigeren Verkehrssektor in Deutschland beitragen. Im Rahmen der Treibhaugas-Minderungsquote (38. BImschV) wird die Elektromobilität durch Mineralölkonzerne quersubventioniert. Du kannst hier einen kleinen Beitrag dazu leisten und gleichzeitig selbst profitieren"
+            },
+            "marke": {
+                "error": "Bitte fülle alle erforderlichen Felder aus!",
+                "heading": "Herzlich Willkommen! Du kannst hier dein Elektroauto registrieren und damit zu einem nachhaltigeren Verkehrssektor in Deutschland beitragen. Im Rahmen der Treibhaugas-Minderungsquote (38. BImschV) wird die Elektromobilität durch Mineralölkonzerne quersubventioniert. Du kannst hier einen kleinen Beitrag dazu leisten und gleichzeitig selbst profitieren",
+                "title": "Voraussetzungen für eine erfolgreiche Anrechnung",
+                "confirm_ownership": "Ein reines Batterie-Elektrofahrzeug ist auf mich (oder mein Unternehmen) zugelassen.",
+                "confirm_energy_contract": "Ein gültiger Stromvertrag von [COMPANY] läuft auf mich (oder mein Unternehmen).",
+                "term_conditions": "Ich stimme den AGB und <a href=\"javascript:void(0)\" id=\"term\" >Datenschutzrichtlinien</a> zu. Ich stimme zu, dass meine Daten im Auftrag von [Company] durch GreenTrax gespeichert werden und zum Zweck der THG-Minderungsquote nach der 38. BImSchV mit [COMPANY] geteilt werden.",
+                "term_conditions_greentrax": "Test",
+                "term_modal_title": "Datenschutzrichtlinien",
+                "term_modal_body": "Herzlich Willkommen! Du kannst hier dein Elektroauto registrieren und damit zu einem nachhaltigeren Verkehrssektor in Deutschland beitragen. Im Rahmen der Treibhaugas-Minderungsquote (38. BImschV) wird die Elektromobilität durch Mineralölkonzerne quersubventioniert. Du kannst hier einen kleinen Beitrag dazu leisten und gleichzeitig selbst profitieren"
+            },
+            "enviam": {
+                "error": "Bitte fülle alle erforderlichen Felder aus!",
+                "heading": "Herzlich Willkommen! Du kannst hier dein Elektroauto registrieren und damit zu einem nachhaltigeren Verkehrssektor in Deutschland beitragen. Im Rahmen der Treibhaugas-Minderungsquote (38. BImschV) wird die Elektromobilität durch Mineralölkonzerne quersubventioniert. Du kannst hier einen kleinen Beitrag dazu leisten und gleichzeitig selbst profitieren",
+                "title": "Voraussetzungen für eine erfolgreiche Anrechnung",
+                "confirm_ownership": "Ein reines Batterie-Elektrofahrzeug ist auf mich (oder mein Unternehmen) zugelassen.",
+                "confirm_energy_contract": "Ein gültiger Stromvertrag von enviaM läuft auf mich (oder mein Unternehmen).",
+                "term_conditions": "Ich stimme den AGB und <a href=\"javascript:void(0)\" id=\"term\" >Datenschutzrichtlinien</a> zu. Ich stimme zu, dass meine Daten im Auftrag von [Company] durch GreenTrax gespeichert werden und zum Zweck der THG-Minderungsquote nach der 38. BImSchV mit [COMPANY] geteilt werden.",
+                "term_conditions_greentrax": "Test",
+                "term_modal_title": "Datenschutzrichtlinien",
+                "term_modal_body": "Herzlich Willkommen! Du kannst hier dein Elektroauto registrieren und damit zu einem nachhaltigeren Verkehrssektor in Deutschland beitragen. Im Rahmen der Treibhaugas-Minderungsquote (38. BImschV) wird die Elektromobilität durch Mineralölkonzerne quersubventioniert. Du kannst hier einen kleinen Beitrag dazu leisten und gleichzeitig selbst profitieren"
+            },
+            "demo": {
+                "error": "Bitte fülle alle erforderlichen Felder aus!",
+                "heading": "Herzlich Willkommen! Du kannst hier dein Elektroauto registrieren und damit zu einem nachhaltigeren Verkehrssektor in Deutschland beitragen. Im Rahmen der Treibhaugas-Minderungsquote (38. BImschV) wird die Elektromobilität durch Mineralölkonzerne quersubventioniert. Du kannst hier einen kleinen Beitrag dazu leisten und gleichzeitig selbst profitieren",
+                "title": "Voraussetzungen für eine erfolgreiche Anrechnung",
+                "confirm_ownership": "Ein reines Batterie-Elektrofahrzeug ist auf mich (oder mein Unternehmen) zugelassen.",
+                "confirm_energy_contract": "Ein gültiger Stromvertrag von [COMPANY] läuft auf mich (oder mein Unternehmen).",
+                "term_conditions": "Ich stimme den AGB und <a href=\"javascript:void(0)\" id=\"term\" >Datenschutzrichtlinien</a> zu. Ich stimme zu, dass meine Daten im Auftrag von [Company] durch GreenTrax gespeichert werden und zum Zweck der THG-Minderungsquote nach der 38. BImSchV mit [COMPANY] geteilt werden.",
+                "term_conditions_greentrax": "Test",
+                "term_modal_title": "Datenschutzrichtlinien",
+                "term_modal_body": "Herzlich Willkommen! Du kannst hier dein Elektroauto registrieren und damit zu einem nachhaltigeren Verkehrssektor in Deutschland beitragen. Im Rahmen der Treibhaugas-Minderungsquote (38. BImschV) wird die Elektromobilität durch Mineralölkonzerne quersubventioniert. Du kannst hier einen kleinen Beitrag dazu leisten und gleichzeitig selbst profitieren"
+            },
+            "localhost": {
+                "error": "Bitte fülle alle erforderlichen Felder aus!",
+                "heading": "Im Rahmen der Treibhaugas-Minderungsquote (§37 BImschG) wird Elektromobilität durch Mineralölunternehmen quersubventioniert. Du kannst dein Elektroauto registrieren um einen kleinen Beitrag zu einem nachhaltigeren Verkehrssektor in Deutschland zu leisten und gleichzeitig selbst zu profitieren.",
+                "title": "Voraussetzungen für eine Anrechnung deiner Emissionseinsparungen:",
+                "confirm_ownership": "Ein reines Batterie-Elektrofahrzeug ist auf mich (oder mein Unternehmen) zugelassen.",
+                "confirm_energy_contract": "Ein gültiger Stromvertrag von [COMPANY] läuft auf mich (oder mein Unternehmen).",
+                "term_conditions": "Ich akzeptiere die <a href=\"https://www.greentrax.de/datenschutz-1\" target=\"_blank\">Datenschutzrichtlinien</a> der GT Emission Solutions UG (haftungsbeschränkt) und bin damit einverstanden, dass meine Personen- und KfZ-bezogenen Daten entsprechend der vorgenannten Bedingungen verarbeitet und an die [Company] weitergegeben werden. Des Weiteren bin ich damit einverstanden, dass meine Daten zur automatisierten Entscheidungsfindung herangezogen werden.",
+                "term_conditions_greentrax": "Test",
+                "term_modal_title": "Datenschutzrichtlinien",
+                "term_modal_body": "<h3>GT Emission Solutions UG (haftungsbeschränkt) - Informationspflichten gemäß Art. 13 DSGVO</h3><p>Wir möchten Ihnen mit den folgenden Informationen gemäß Art. 13 DSGVO einen Überblick über die Verarbeitung, Speicherung und Nutzung Ihrer personenbezogenen Daten durch uns und Ihre daraus abgeleiteten Rechte im Hinblick auf das Datenschutzrecht geben.</p><ol><li><strong> Folgende Informationen möchten wir Ihnen gemäß Art. 13 Abs. 1 DSGVO zur Verfügung stellen:</strong></li><li><strong> Folgende Informationen möchten wir Ihnen gemäß Art. 13 Abs. 1 DSGVO zur Verfügung stellen:</strong></li><li><strong> Folgende Informationen möchten wir Ihnen gemäß Art. 13 Abs. 1 DSGVO zur Verfügung stellen:</strong></li><li><strong> Folgende Informationen möchten wir Ihnen gemäß Art. 13 Abs. 1 DSGVO zur Verfügung stellen:</strong></li><li><strong> Folgende Informationen möchten wir Ihnen gemäß Art. 13 Abs. 1 DSGVO zur Verfügung stellen:</strong></li></ol>"
+            }
+        },
+        "second_step": {
+            "error": "Bitte fülle alle erforderlichen Felder aus!",
+            "title": "Daten zu deinem Stromvertrag",
+            "heading": "Trage hier die Daten zu deinem Stromvertrag ein. Wir benötigen diese, damit die Anrechnung der Treibhausgas-Emissionseinsparungen nach der 38. BImschV deinem Stromvertrag zugeordnet werden kann.",
+            "first_name": "Vorname (laut Stromvertrag)*",
+            "last_name": "Nachname (laut Stromvertrag)*",
+            "customer_company": "Unternehmen (laut Stromvertrag)*",
+            "email": "E-Mail Adresse*",
+            "customer_number": "Kunden- oder Vertragsnummer (optional)",
+            "street": "Strasse*",
+            "housenumber": "Hausnummer*",
+            "postal_code": "Postleitzahl*",
+            "city": "Ort*",
+            "email_error": "Bitte gib eine gültige E-Mail Adresse ein!"
+        },
+        "third_step": {
+            "error": "Bitte fülle alle erforderlichen Felder aus!",
+            "title": "Daten zu deinem Elektroauto",
+            "heading": "Trage hier die Daten zu deinem reinen Elektroauto ein. Wir benötigen diese, damit die Anrechnung der Treibhausgas-Emissionseinsparungen nach der 38. BImschV deinem Elektrofahrzeug zugeordnet werden kann.",
+            "ownership_company": "Unternehmen (laut KFZ-Zulassungsbescheinigung)*",
+            "ownership_first_name": "Vorname (laut KFZ-Zulassungsbescheinigung)*",
+            "ownership_last_name": "Nachname (laut KFZ-Zulassungsbescheinigung)*",
+            "ownership_vehicle_number": "KFZ-Kennzeichen*",
+            "ownership_start": "Zulassungsdatum",
+            "ownership_end": "Datum Abmeldung"
+        },
+        "fourth_step":{
+            "error": "Bitte lade mindestens eine Datei hoch (mindestens ein Foto/Kopie der Zulassungsbescheinigung Teil I)!",
+            "title": "Nachweise hochladen",
+            "heading": "Als Nachweis für die Zulassung eines reinen Batterie-Elektrofahrzeuges benötigen wir ein Foto/Kopie deiner Zulassungsbescheinigung Teil I (Fahrzeugschein). Je nach Konstellation aus Stromvertrag und Zulassung benötigen wir darüber hinaus noch weitere Nachweise. Die Tabelle gibt einen Überblick. Hinweis: Bitte stelle sicher, dass die Schrift lesbar ist, ansonsten können wir den Bonus leider nicht auszahlen.",
+            "ownership_file": "KFZ Zulassungsbescheinigung Teil I (Fahrzeugschein)*:",
+            "proof_file": "Sonstige Nachweise (Foto oder Kopie):"
+        },
+        "fifth_step": {
+            "innogy": {
+                "title": "Vielen Dank!",
+                "heading": "Du wirst in wenigen Sekunden zur [Company] Webseite weitergeleitet."
+            },
+            "marke": {
+                "title": "Vielen Dank!",
+                "heading": "Du wirst in wenigen Sekunden zur [Company] Webseite weitergeleitet."
+            },
+            "enviam": {
+                "title": "Vielen Dank!",
+                "heading": "Du wirst in wenigen Sekunden zur [Company] Webseite weitergeleitet."
+            },
+            "demo": {
+                "title": "Vielen Dank!",
+                "heading": "Du wirst in wenigen Sekunden zur [Company] Webseite weitergeleitet."
+            },
+            "localhost": {
+                "title": "Vielen Dank!",
+                "heading": "Du wirst in wenigen Sekunden zur [Company] Webseite weitergeleitet."
+            }
+        }
+    }
+}
